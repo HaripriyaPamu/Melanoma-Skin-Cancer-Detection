@@ -22,6 +22,9 @@ The data set contains the following diseases:
 
 ![image](https://github.com/user-attachments/assets/646da812-18a9-4cd7-8432-43e67db86f71)
 
+![image](https://github.com/user-attachments/assets/5f2c5b25-5b44-462c-9db2-d6c06f7fb3fb)
+
+To overcome the issue of class imbalance, used a python package Augmentor (https://augmentor.readthedocs.io/en/master/) to add more samples across all classes so that none of the classes have very few samples.
 
 
 ## Conclusions
