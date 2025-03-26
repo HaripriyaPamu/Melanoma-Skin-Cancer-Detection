@@ -85,6 +85,6 @@ The goal is to classify skin cancer using images of skin lesions. To enhance the
 - [Introduction to CNN]( https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/) 
 
 
-## Contact
-Created by @haripriya_pamu - feel free to contact me!
+## Contributors
+[Haripriya_Pamu](https://github.com/HaripriyaPamu)
 
