@@ -1,6 +1,5 @@
 # Melanoma-Skin-Cancer-Detection
-> Outline a brief description of your project.
-
+> Cancer encompasses more than 200 distinct types, with melanoma being the most lethal form of skin cancer. The diagnostic process for melanoma begins with a clinical assessment, followed by dermoscopic imaging and histopathological analysis. If detected in its early stages, melanoma is highly treatable. The initial step in diagnosing melanoma is performing a visual inspection of the affected skin area. Dermatologists capture dermatoscopic images of skin lesions using a high-resolution camera, which provides an accuracy range of 65-80% in identifying melanoma without additional technical assistance. Through further visual assessment by oncologists and analysis of dermatoscopic images, the overall diagnostic accuracy of melanoma increases to 75-84%. This project aims to develop an automated classification system using image processing techniques to identify skin cancer from images of skin lesions.
 
 ## Table of Contents
 * [General Info](#general-information)
