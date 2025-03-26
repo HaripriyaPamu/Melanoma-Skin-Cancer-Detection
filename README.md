@@ -7,19 +7,21 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Model Architecture]
+* [Model Summary]
+* [Model Evaluation]
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The data set contains the following diseases:
+![image](https://github.com/user-attachments/assets/646da812-18a9-4cd7-8432-43e67db86f71)
+
+
 
 ## Conclusions
 - Conclusion 1 from the analysis
