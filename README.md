@@ -80,8 +80,8 @@ The goal is to classify skin cancer using images of skin lesions. To enhance the
 ## Acknowledgements
 -UpGrad tutorials on Convolution Neural Networks (CNNs) on the learning platform
 
--[Melanoma Skin Cancer](#https://www.cancer.org/cancer/types/melanoma-skin-cancer/about/what-is-melanoma.html)
--[Introduction to CNN](# https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/) 
+-[Melanoma Skin Cancer](https://www.cancer.org/cancer/types/melanoma-skin-cancer/about/what-is-melanoma.html)
+-[Introduction to CNN]( https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/) 
 
 
 ## Contact
